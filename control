@@ -1,10 +1,9 @@
-
-Package: com.suuduong566.iphonexgestures
-Name: iPhone X Gestures
-Version: 0.1.0
+Package: com.suuduong.iphonexgestures
+Name: iPhoneXGestures
+Version: 0.0.2
 Architecture: iphoneos-arm
-Description: iPhone X style gestures for iOS 7.1.2
-Maintainer: suuduong566-cyber
-Author: suuduong566-cyber
+Description: Swipe-up gesture from the bottom edge for iOS 7
+Maintainer: suuduong
+Author: suuduong
 Section: Tweaks
 Depends: mobilesubstrate
