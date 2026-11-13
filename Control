@@ -1,0 +1,10 @@
+
+Package: com.suuduong566.iphonexgestures
+Name: iPhone X Gestures
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: iPhone X style gestures for iOS 7.1.2
+Maintainer: suuduong566-cyber
+Author: suuduong566-cyber
+Section: Tweaks
+Depends: mobilesubstrate
